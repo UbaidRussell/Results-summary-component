@@ -1,0 +1,18 @@
+body{
+    display: flex;
+}
+
+.flex-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}  
+
+.attribution{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
