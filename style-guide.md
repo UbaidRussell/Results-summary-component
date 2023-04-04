@@ -29,9 +29,9 @@ The designs were created to the following widths:
 ### Neutral
 
 - White: hsl(0, 0%, 100%)
-- Pale blue: hsl(221, 100%, 96%)
-- Light lavender: hsl(241, 100%, 89%)
-- Dark gray blue: hsl(224, 30%, 27%)
+- Pale blue: hsl(221, 100%, 96%) //Visual background color
+- Light lavender: hsl(241, 100%, 89%) //Visual color
+- Dark gray blue: hsl(224, 30%, 27%)  //Continue button color
 
 ### Notes
 

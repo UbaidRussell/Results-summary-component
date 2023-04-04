@@ -35,12 +35,32 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 20px;
     transition: 0.5s;
 
 }
 
-    /*Second card*/
+.circle{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-image: linear-gradient(hsla(256, 72%, 46%, 1),hsla(241, 72%, 46%, 0));
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.circle-h1{
+    color: #fff;
+    font-size: 75px;
+    margin-bottom: 0px;
+}
+.circle-p{
+    font-size: 18px;
+    margin-top: 0px;
+}
+
+/*Second card*/
 .card-2{
     width: 100%;
     height: 100%;
@@ -50,6 +70,4 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 20px;
-    transition: 0.5s;
 }
