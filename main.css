@@ -152,9 +152,9 @@ span{
     margin-bottom: 2vh;
     border: 1px solid hsl(166, 100%, 37%);
     border-radius: 10px;
-    padding-left: 20px;
 }
 .verbal-header{
+    padding-right: 20px;
     color: hsl(166, 100%, 37%)
 }
 
@@ -169,9 +169,9 @@ span{
     margin-bottom: 2vh;
     border: 1px solid hsl(234, 85%, 45%);
     border-radius: 10px;
-    padding-left: 20px;
 }
 .visual-header{
+    padding-right: 20px;
     color: hsl(234, 85%, 45%)
 }
 
