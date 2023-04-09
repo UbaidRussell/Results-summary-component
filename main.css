@@ -189,7 +189,7 @@ button{
   border-radius: 50px;
 }
 
-.button-1:hover,
-.button-1:focus {
-  background-color: hsl(224, 30%, 27%);
+button:hover,
+button:focus {
+  background-color:hsl(256, 72%, 46%);
 }
