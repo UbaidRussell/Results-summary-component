@@ -87,7 +87,7 @@ img{
 .summary-heading{
     color: black;
     margin-bottom: 2vh;
-    margin-top: 3vh;
+    margin-top: 2vh;
     margin-left: 2vh;
 }
 .summary-container{
@@ -166,7 +166,6 @@ span{
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    margin-bottom: 2vh;
     border: 1px solid hsl(234, 85%, 45%);
     border-radius: 10px;
 }
@@ -175,3 +174,22 @@ span{
     color: hsl(234, 85%, 45%)
 }
 
+button{
+  background-color:hsl(224, 30%, 27%);
+  border-radius: 8px;
+  border-style: none;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 300;
+  list-style: none;
+  margin-left: 50px;
+  padding: 10px 100px;
+  border-radius: 50px;
+}
+
+.button-1:hover,
+.button-1:focus {
+  background-color: hsl(224, 30%, 27%);
+}
