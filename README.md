@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 <!--I will put a screenshot here-->
-![](./screenshot.jpg)
+![](assets/images/screenshot.png)
 
 
 ### Links
