@@ -27,7 +27,6 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page []
 
 ### Screenshot
-<!--I will put a screenshot here-->
 ![](assets/images/screenshot.png)
 
 
