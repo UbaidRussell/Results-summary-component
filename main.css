@@ -8,6 +8,7 @@ body{
     width: 40%;
     height: 55vh;
     display: flex;
+    
 }
 
 .flex-container{
@@ -31,7 +32,8 @@ img{
 .card-1{
     width: 100%;
     height: 100%;
-    min-width: 200px;
+    min-width: 400px;
+    min-height: 500px;
     color: grey;
     background-color: hsl(241, 81%, 54%);
     border-radius: 30px;
@@ -88,6 +90,9 @@ img{
     right: 20px;    
     border-top-right-radius:30px;
     border-bottom-right-radius:30px;
+    min-width: 400px;
+    min-height: 500px;
+    overflow: auto;
 }
 .summary-heading{
     color: black;
