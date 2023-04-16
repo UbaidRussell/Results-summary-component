@@ -278,14 +278,27 @@ button:focus {
 }
 @media screen and (min-width:641px) and (max-width: 960px )  { /* portrait tablets, portrait iPad, landscape e-readers, landscape 800x480 or 854x480 phones */ 
     body{
+        margin: 0;
+        padding: 0;
         background-color: blue;
+        justify-content: flex-start;
+    }
+    .main-container{
+        margin-top: 0vh;
+    }
+    .card-2{
+        padding-left: 30px;
+    }
+    .attribution{
+        float: left;
+        position: absolute;
+        width: 20%;
     }
 }
 
 
-@media (min-width:961px)  { /* tablet, landscape iPad, lo-res laptops ands desktops */
+@media (min-width:961px) and (max-width: 1025)  { /* tablet, landscape iPad, lo-res laptops ands desktops */
     .flex-container{
-        flex-wrap: wrap;
         background-color:purple
     } 
 }
