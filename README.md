@@ -18,7 +18,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 
 ## Overview
-
+  Results summary component is a website that shows the results of a survey. It is a simple website that is easy to navigate and understand. It is a website that is responsive and can be viewed on any device.
 ### The challenge
 
 Users should be able to:
