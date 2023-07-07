@@ -210,7 +210,7 @@ button{
 
 button:hover,
 button:focus {
-  background-color:hsl(241, 81%, 54%);
+    background-image: linear-gradient(hsla(234, 85%, 45%,1),hsla(241, 72%, 46%, 0));
 }
 
 
