@@ -272,6 +272,22 @@ button:focus {
     button{
         margin:30px;
     }
+    .summary-card-1{
+        margin-left:0px;
+        margin-right:20px;
+    }
+    .summary-card-2{
+        margin-left:0px;
+        margin-right:20px;
+    }
+    .summary-card-3{
+        margin-left:0px;
+        margin-right:20px;
+    }
+    .summary-card-4{
+        margin-left:0px;
+        margin-right:20px;
+    }
 
 }
 
